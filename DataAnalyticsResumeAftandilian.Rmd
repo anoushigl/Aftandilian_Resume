@@ -1,0 +1,130 @@
+---
+title: "Lia Anoush Aftandilian"
+author: Lia Anoush Aftandilian
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # Thanks to Eric R. Scott for this tip! 
+    self_contained: false
+---
+
+Aside
+================================================================================
+
+
+![Data](data_icon.png){width=30%}
+<!-- ![Data](`r here::here("data_icon.png")`) -->
+
+
+
+Contact Info {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i>anoushigl@gmail.edu
+- <i class="fa fa-github"></i> [github.com/anoushigl/](https://github.com/anoushigl/)
+- <i class="fa fa-phone"></i> +1 617-301-2224
+
+
+Skills {#skills}
+--------------------------------------------------------------------------------
+
+- Proficient with **Microsoft Office** and **SPSS**
+
+- Proficient in **R**, **Python**, **Matlab**, and **C++**
+
+- Experienced with **project management**
+
+
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+<!--This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).-->
+
+Last updated on `r Sys.Date()`.
+
+
+
+Main
+================================================================================
+
+Lia A Aftandilian {#title}
+--------------------------------------------------------------------------------
+
+### Graduate student seeking opportunities at the intersection of STEM and business
+
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### Tufts University
+
+MS Candidate in Innovation and Management
+MS Candidate in Bioengineering
+
+Medford, MA
+
+2020--Current
+
+
+### University of Vermont
+
+B.S. in Biological Sceinces
+
+Burlington, VT
+
+2014--2018
+
+
+
+Work Experience {data-icon=comment-alt}
+--------------------------------------------------------------------------------
+
+### Project Manager
+
+Beth Israel Deaconess Medical Center
+
+Boston, MA
+
+2018--2021
+
+- Responsible for day-to-day operations including constructing, modifying, and maintaining project requirements of over twenty medical device clinical trials.  
+
+Research Experience {data-icon=flask}
+--------------------------------------------------------------------------------
+### Undergraduate Research Assistant
+
+University of Vermont
+
+Burlington, VT
+
+2017--2018
+
+- Genotyped mice, compared EEG data to Matlab model, and analyzed electrophysiology data in Matlab/SPSS
+
+
+Selected Project Experience {data-icon=chalkboard-teacher}
+--------------------------------------------------------------------------------
+
+### Innovation Spring Project
+
+Tufts University
+
+Medford, MA
+
+2020-2021
+
+<!--::: concise-->
+- Worked with team to ideate venture and develop business plan and deliver pitch to panel of professionals
+- Deliverables included business plan, marketing strategies, and financials, including five-year pro-forma projections
+
+<!--:::-->
+
+
+
+
+
+
+
+
+
